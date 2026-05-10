@@ -29,8 +29,11 @@ An LED is connected to the Raspberry Pi and controlled using the gpiozero librar
 
 <img width="3024" height="4032" alt="HW1_photo" src="https://github.com/user-attachments/assets/9d85c9a3-c5e6-45a6-9333-c25adbd57c1f" />
 
+
+---
 ## 🎥 Video
 https://youtube.com/shorts/VEWtVfIeT-U?feature=share
+
 ---
 
 ## Code
