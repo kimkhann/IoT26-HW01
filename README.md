@@ -48,8 +48,12 @@ while True:
 
 
 ---
-## 
-```markdown
-- **Raspberry Pi Setup**: 
-- **Development**: 
-- **Documentation**:   
+## Team Roles
+- **Raspberry Pi Setup**: 김채윤, 김현보  
+  (Raspberry Pi connection and development environment setup)
+
+- **Development**: 김건
+  (Code execution and refactoring, version synchronization)
+
+- **Documentation**: 김현보
+  (Video recording and GitHub repository organization)
