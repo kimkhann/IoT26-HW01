@@ -43,7 +43,7 @@ An LED is connected to the Raspberry Pi and controlled using the gpiozero librar
 from gpiozero import LED
 from time import sleep
 
-led = LED(17)
+led = LED(14)
 
 while True:
     led.on()
