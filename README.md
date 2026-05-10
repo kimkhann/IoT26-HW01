@@ -32,7 +32,7 @@ An LED is connected to the Raspberry Pi and controlled using the gpiozero librar
 
 ---
 ## 🎥 Video
-https://youtube.com/shorts/VEWtVfIeT-U?feature=share
+[https://youtube.com/shorts/VEWtVfIeT-U?feature=share](https://www.youtube.com/shorts/WOD6z7DadZU?feature=share)
 
 ---
 
