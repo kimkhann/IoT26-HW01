@@ -28,7 +28,7 @@ An LED is connected to the Raspberry Pi and controlled using the gpiozero librar
 - Resistor used to prevent overcurrent
 
 <img src="https://github.com/user-attachments/assets/9d85c9a3-c5e6-45a6-9333-c25adbd57c1f" width="400">
-
+<img src="https://github.com/user-attachments/assets/7becac96-7ffe-4000-90e0-13ca28a0b4d2" width="400" />
 
 ---
 ## 🎥 Video
